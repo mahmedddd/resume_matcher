@@ -1,0 +1,28 @@
+fastapi==0.115.5
+uvicorn[standard]==0.32.0
+python-multipart==0.0.12
+pydantic==2.9.2
+pydantic-settings==2.6.1
+sqlalchemy==2.0.36
+aiosqlite==0.20.0
+
+# Scraping
+playwright==1.49.0
+beautifulsoup4==4.12.3
+httpx==0.28.0
+lxml==5.3.0
+
+# CV Parsing
+PyMuPDF==1.24.14
+
+# NLP / AI
+sentence-transformers==3.3.1
+numpy==1.26.4
+scikit-learn==1.5.2
+google-generativeai==0.8.3
+
+# Optional: Firecrawl
+firecrawl-py==1.4.0
+
+# Dev
+python-dotenv==1.0.1
