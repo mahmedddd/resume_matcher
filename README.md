@@ -1,4 +1,4 @@
-# 🎯 Resume Matcher
+# 🎯 SkillSync PK
 
 > AI-powered Pakistan internship & job discovery platform that automatically scrapes local job boards and matches them directly to your CV.
 
@@ -24,6 +24,7 @@ This platform leverages headless browsing and asynchronous scraping to pull live
 - **CV Smart Matching:** Upload a PDF CV, extract your unique skills via Google's Gemini, and map them to live job descriptions.
 - **Semantic Search:** Uses advanced local text embedding (Sentence Transformers) to rank jobs not just by keyword, but by *meaning* and context.
 - **Glassmorphic UI:** Modern, premium dashboard built on Next.js.
+- **AI Agent Auto-Apply:** With 1-Click, our AI agent takes over, autonomously filling out tedious application forms for you across multiple sites.
 
 ---
 
